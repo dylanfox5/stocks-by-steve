@@ -1,0 +1,94 @@
+﻿Stock Name,Stock Code,Industry,Volatility,Isenvironmentallyfriendly,Ishalal,Isvegan,Isnolobbying
+Apple,APPL,Technology,low,TRUE,,TRUE,FALSE
+Microsoft,MSFT,Technology,low,TRUE,,TRUE,FALSE
+Amazon,AMZN,Technology,low,FALSE,,TRUE,FALSE
+Cloudflare,NET,Technology,medium,TRUE,,TRUE,FALSE
+Facebook (Meta),FB,Technology,medium,FALSE,,TRUE,FALSE
+Alphabet,GOOG,Technology,low,TRUE,,TRUE,FALSE
+Salesforce,CRM,Technology,low,TRUE,,TRUE,FALSE
+HubSpot,HUBS,Technology,medium,TRUE,,TRUE,TRUE
+Zoom,ZM,Technology,medium,TRUE,,TRUE,TRUE
+Johnson & Johnson,JNJ,Healthcare,low,TRUE,,FALSE,FALSE
+Eli Lilly,LLY,Healthcare,medium,FALSE,,FALSE,TRUE
+Pfizer,PFE,Healthcare,medium,FALSE,,FALSE,FALSE
+Medtronic,MDT,Healthcare,low,FALSE,,TRUE,FALSE
+Moderna,MRNA,Healthcare,medium,FALSE,,FALSE,FALSE
+CVS,CVS,Healthcare,medium,TRUE,,TRUE,TRUE
+3M,MMM,Healthcare,low,FALSE,,FALSE,TRUE
+Humana,HUM,Healthcare,medium,TRUE,,FALSE,TRUE
+Sage Therapeutic,SAG,Healthcare,medium,FALSE,,FALSE,FALSE
+Wells Fargo,WFC,Finance,medium,FALSE,,TRUE,FALSE
+Goldman Sachs Group,GS,Finance,low,TRUE,,TRUE,FALSE
+Morgan Stanley,MS,Finance,low,TRUE,,TRUE,FALSE
+Western Alliance,WAL,Finance,medium,TRUE,,TRUE,TRUE
+Square,SQ,Finance,medium,TRUE,,TRUE,TRUE
+JPMorgan Chase,JPM,Finance,low,TRUE,,TRUE,FALSE
+Visa,V,Finance,low,TRUE,,TRUE,TRUE
+Discover,DISCA,Finance,low,TRUE,,TRUE,TRUE
+PayPal,TYPL,Finance,medium,TRUE,,TRUE,TRUE
+Home Depot,HD,Consumer,low,TRUE,,TRUE,TRUE
+Nike,NKE,Consumer,low,TRUE,,TRUE,FALSE
+eBay,EBAY,Consumer,medium,TRUE,,TRUE,TRUE
+Chipotle,CMG,Consumer,low,FALSE,,FALSE,TRUE
+GameStop,GME,Consumer,high,TRUE,,TRUE,TRUE
+Nordstrom Inc,JWN,Consumer,medium,TRUE,,FALSE,TRUE
+Ross Stores,ROST,Consumer,medium,TRUE,,TRUE,TRUE
+Foot Locker,FL,Consumer,medium,TRUE,,TRUE,TRUE
+Qurate Retail,QRTEA,Consumer,high,FALSE,,FALSE,TRUE
+Comcast,CMCSA,Communication,low,FALSE,,TRUE,FALSE
+T-Mobile,TMUS,Communication,medium,FALSE,,TRUE,FALSE
+ViacomCBS,VIAC,Communication,medium,TRUE,,TRUE,FALSE
+Netflix,NFLX,Communication,medium,TRUE,,TRUE,FALSE
+Verizon,VZ,Communication,low,TRUE,,TRUE,FALSE
+AT&T,T,Communication,low,FALSE,,TRUE,TRUE
+Ericsson,ERIC,Communication,medium,TRUE,,TRUE,TRUE
+Lockheed Martin,LMT,Industrials,low,FALSE,,TRUE,FALSE
+Honeywell,HON,Industrials,low,FALSE,,TRUE,FALSE
+United Airlines Holdings,UAL,Industrials,medium,FALSE,,TRUE,FALSE
+Eaton Corp,ETN,Industrials,low,TRUE,,TRUE,FALSE
+Plug Power,PLUG,Industrials,high,FALSE,,TRUE,TRUE
+Generac Holdings,GNRC,Industrials,medium,FALSE,,TRUE,TRUE
+UPS,UPS,Industrials,low,TRUE,,TRUE,TRUE
+Berkshire Hathaway,BRK.A,Industrials,medium,TRUE,,TRUE,FALSE
+Boeing,BA,Industrials,medium,FALSE,,TRUE,FALSE
+Caterpillar,CAT,Industrials,low,FALSE,,TRUE,TRUE
+Deere,DE,Industrials,medium,TRUE,,TRUE,TRUE
+Procter & Gamble,PG,Consumer,low,FALSE,,TRUE,FALSE
+Coco-cola,KO,Consumer,low,TRUE,,TRUE,TRUE
+General Mills,GIS,Consumer,low,TRUE,,TRUE,TRUE
+Herbalife,HLF,Consumer,medium,FALSE,,FALSE,TRUE
+Campbell Soup,CPB,Consumer,low,TRUE,,FALSE,TRUE
+Coty Inc,COTY,Consumer,high,FALSE,,TRUE,TRUE
+Walmart,WMT,Consumer,low,FALSE,,FALSE,FALSE
+Alibaba,BABA,Consumer,medium,FALSE,,FALSE,FALSE
+Dominion Energy,D,Utilities,low,FALSE,,TRUE,FALSE
+Duke Energy,DUK,Utilities,low,FALSE,,TRUE,FALSE
+UGI CorpNRG Energy,UGI,Utilities,low,FALSE,,TRUE,TRUE
+CenterPoint Energy,CNP,Utilities,medium,FALSE,,TRUE,FALSE
+Exelon Corp,EXC,Utilities,low,FALSE,,TRUE,FALSE
+Devon Energy Corp,DVN,Energy,medium,FALSE,,TRUE,FALSE
+HollyFrontier Corp,HFC,Energy,medium,FALSE,,TRUE,FALSE
+Marathon Petroleum,MPC,Energy,medium,FALSE,,TRUE,FALSE
+ConocoPhillips,COP,Energy,medium,FALSE,,TRUE,FALSE
+Exxon,XOM,Energy,low,FALSE,,TRUE,FALSE
+Chevron,CVX,Energy,low,FALSE,,TRUE,FALSE
+Shell,SHLX,Energy,medium,FALSE,,TRUE,FALSE
+American Tower,AMT,REITs,low,TRUE,,TRUE,TRUE
+Crown Castle International,CCI,REITs,low,TRUE,,TRUE,TRUE
+Prologis,PLD,REITs,low,TRUE,,TRUE,TRUE
+AGNC Investment,AGNC,REITs,low,TRUE,,TRUE,TRUE
+Weyerhaeuser,WY,REITs,low,TRUE,,TRUE,TRUE
+Simon Property Group,SPG,REITs,medium,TRUE,,TRUE,TRUE
+Ecolab,ECL,Materials,low,FALSE,,FALSE,FALSE
+Air Products & Chemicals,APD,Materials,low,TRUE,,FALSE,TRUE
+DuPont de Nemours,DD,Materials,medium,FALSE,,FALSE,FALSE
+Celanese Corp,CE,Materials,medium,FALSE,,FALSE,FALSE
+Nucor Corp,NUE,Materials,medium,FALSE,,FALSE,FALSE
+Steel Dynamics,STLD,Materials,medium,FALSE,,TRUE,TRUE
+Olin Corp,OLN,Materials,medium,FALSE,,TRUE,TRUE
+Alcoa Corp,AA,Materials,medium,FALSE,,TRUE,TRUE
+Sherwin Williams,SHW,Materials,low,FALSE,,TRUE,TRUE
+Bitcoin,BTC,Crypto,high,FALSE,,TRUE,TRUE
+Ethereum,ETH,Crypto,high,FALSE,,TRUE,TRUE
+Dogecoin,DOGE,Crypto,high,FALSE,,TRUE,TRUE
+Litecoin,LTC,Crypto,high,FALSE,,TRUE,TRUE
