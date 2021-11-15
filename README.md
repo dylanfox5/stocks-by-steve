@@ -8,7 +8,7 @@ Once Steve determines potential options for the user, it analyzes the sentiment 
 From there, the user can choose which stock they would like to invest in.
 
 # Implementation
-Stocks by Steve was developed by using the following tools: 
+Stocks by Steve was developed using the following tools: 
 <br>
 * Natural Language Processing
   * IBM Watson
