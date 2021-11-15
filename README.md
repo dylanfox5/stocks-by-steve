@@ -20,5 +20,3 @@ Stocks by Steve was developed by using the following tools:
 * Time Series Forecasting Mode
   * Facebook Prophet
 * React
-
-# Get Started
