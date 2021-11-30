@@ -1,5 +1,6 @@
 # Stocks by Steve
 Developed by Zakaria Muhammad, Dylan Fox, Arsalan Karamat, Christian Skinner
+<br>Wiki - https://github.com/dylanfox5/stocksbysteve/wiki
 # Introduction
 Steve is a tool aimed at helping first-time investors navigate the daunting task of understanding the stock market. Steve, uses Natural Language Processing to provide a human-like interaction for its users to walk them through investing for their future.
 <br><br>
